@@ -1,0 +1,17 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.description {
+        color: #000000;
+}
+
+.recipe-photo {
+    height: auto;
+    width: 300px;
+}
+
+.heading1 {
+    background-color: #000000;
+    color: white;
+}
